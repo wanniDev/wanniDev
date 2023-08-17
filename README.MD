@@ -1,5 +1,13 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=300&section=header&text=Hello&fontSize=90)
-while(true) { learning(); }
+
+
+```java
+public class World {
+  public static void main(String[] args) {
+    while(true) { learning(); }
+  }
+}
+```
 
 [![wanniDev's GitHub stats](https://github-readme-stats.vercel.app/api?username=wanniDev)](https://github.com/anuraghazra/github-readme-stats)
 
