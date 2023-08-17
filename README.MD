@@ -4,7 +4,7 @@
 ```java
 public class World {
   public static void main(String[] args) {
-    while(true) { learning(); }
+    while(true) { growing(); }
   }
 }
 ```
