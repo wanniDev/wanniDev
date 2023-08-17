@@ -1,6 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=300&section=header&text=Hello&fontSize=90)
 
-
 ```java
 public class World {
   public static void main(String[] args) {
