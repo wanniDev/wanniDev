@@ -13,6 +13,7 @@ public class AboutMe {
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wanniDev&theme=tokyonight)
 
 ### My development philosophy...
+- **Disagree and Commit**
 - **The ability to define a problem** is more important than solving it.
 - **Simple solutions** are more important than tricky ones.
 - **Creating intuitive code** is more important than having code with annotations.
