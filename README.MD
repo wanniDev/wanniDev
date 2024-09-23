@@ -1,6 +1,3 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=300&section=header&text=Hello&fontSize=90)
-
-
 <a href="https://github.com/devxb/gitanimals">
   <img
     src="https://render.gitanimals.org/lines/wanniDev?pet-id=626195369308013377"
